@@ -41,6 +41,14 @@ Feel free to contribute more by creating an issue at [GitHub](https://github.com
             <p>Cornelius Lanczos (1893-1974) about mathematics</p>
             </p>
         </td>
+        <td>
+            <p style="text-align: center;">
+            <a href="http://www.youtube.com/watch?v=Akf-aF06h5A" target="_blank" rel="noopener noreferrer">
+                <img src="http://img.youtube.com/vi/Akf-aF06h5A/0.jpg" alt="drawing" width="200"/>
+            </a>
+            <p>Life and work of Albert Einstein (1879-1955)</p>
+            </p>
+        </td>
     </tr>
 </table>
 
