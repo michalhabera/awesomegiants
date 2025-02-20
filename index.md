@@ -1,7 +1,7 @@
-# Awesome list of Giants of science
+# Awesome list of interviews with Giants of Science
 
-A collection of interviews with Giants of science and philosophy.
-Feel free to contribute more by creating an issue at [GitHub](https://github.com/michalhabera/shouldersofgiants/issues).
+A collection of interviews with Giants of Science.
+Feel free to contribute more by creating an issue at [GitHub](https://github.com/michalhabera/awesomegiants/issues).
 
 ## Mathematics and Computer Science
 
