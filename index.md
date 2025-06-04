@@ -5,7 +5,7 @@ Feel free to contribute more by creating an issue at [GitHub](https://github.com
 
 ## Mathematics and Computer Science
 
-### Willian Kahan (1933 - )
+### William Kahan (1933 - )
 
 <table border="0">
     <tr>
@@ -92,7 +92,7 @@ Feel free to contribute more by creating an issue at [GitHub](https://github.com
 ## Physics
 
 
-### Richard Feynmann (1918 - 1988)
+### Richard Feynman (1918 - 1988)
 
 <table border="0">
     <tr>
