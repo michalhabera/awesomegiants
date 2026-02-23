@@ -23,19 +23,6 @@ A collection of interviews with Giants of Science. Feel free to contribute more 
     </div>
 </a>
 
-<a href="http://www.youtube.com/watch?v=si9kqZB6P6g" class="video-card" target="_blank">
-    <div class="video-thumbnail">
-        <img src="https://img.youtube.com/vi/si9kqZB6P6g/hqdefault.jpg" alt="Grace Hopper">
-        <div class="play-icon">
-            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-        </div>
-    </div>
-    <div class="video-info">
-        <div class="video-title">Grace Hopper (1906 - 1992)</div>
-        <div class="video-desc">American computer scientist and United States Navy rear admiral. A pioneer of computer programming and one of the first programmers of the Harvard Mark I.</div>
-    </div>
-</a>
-
 <a href="http://www.youtube.com/watch?v=smrs6FfnCzs" class="video-card" target="_blank">
     <div class="video-thumbnail">
         <img src="https://img.youtube.com/vi/smrs6FfnCzs/hqdefault.jpg" alt="William Kahan">
@@ -137,32 +124,6 @@ A collection of interviews with Giants of Science. Feel free to contribute more 
     <div class="video-info">
         <div class="video-title">Barbara Liskov (1939 - )</div>
         <div class="video-desc">Developer of the CLU programming language and advocate of the Liskov substitution principle, Liskov's work shaped modern software design.</div>
-    </div>
-</a>
-
-<a href="http://www.youtube.com/watch?v=z7bVw7lMtUg" class="video-card" target="_blank">
-    <div class="video-thumbnail">
-        <img src="https://img.youtube.com/vi/z7bVw7lMtUg/hqdefault.jpg" alt="Claude Shannon">
-        <div class="play-icon">
-            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-        </div>
-    </div>
-    <div class="video-info">
-        <div class="video-title">Claude Shannon (1916 - 2001)</div>
-        <div class="video-desc">American mathematician, electrical engineer, and cryptographer known as "the father of information theory".</div>
-    </div>
-</a>
-
-<a href="http://www.youtube.com/watch?v=vZbFHx8UCI8" class="video-card" target="_blank">
-    <div class="video-thumbnail">
-        <img src="https://img.youtube.com/vi/vZbFHx8UCI8/hqdefault.jpg" alt="John von Neumann">
-        <div class="play-icon">
-            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-        </div>
-    </div>
-    <div class="video-info">
-        <div class="video-title">John von Neumann (1903 - 1957)</div>
-        <div class="video-desc">Hungarian-American mathematician, physicist, computer scientist, engineer and polymath. He made major contributions to many fields.</div>
     </div>
 </a>
 
