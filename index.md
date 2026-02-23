@@ -1,48 +1,190 @@
+---
+layout: default
+---
+
 # Awesome list of interviews with Giants of Science
 
 A collection of interviews with Giants of Science. Feel free to contribute more by creating an issue at [GitHub](https://github.com/michalhabera/awesomegiants/issues).
 
 ## Mathematics and Computer Science
 
-### William Kahan (1933 - )
+<div class="video-grid">
 
-Kahan spearheaded the development of the IEEE 754 standard for
-floating‑point arithmetic, profoundly shaping modern numerical
-computing.
+<a href="http://www.youtube.com/watch?v=a1zDuOPkMSw" class="video-card" target="_blank">
+    <div class="video-thumbnail">
+        <img src="https://img.youtube.com/vi/a1zDuOPkMSw/hqdefault.jpg" alt="Richard Hamming">
+        <div class="play-icon">
+            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+    </div>
+    <div class="video-info">
+        <div class="video-title">Richard Hamming (1915 - 1998)</div>
+        <div class="video-desc">American mathematician and computer scientist, best known for the Hamming code and his "You and Your Research" talk.</div>
+    </div>
+</a>
 
-<a href="http://www.youtube.com/watch?v=smrs6FfnCzs"><img src="http://img.youtube.com/vi/smrs6FfnCzs/0.jpg" alt="William Kahan, 1989 ACM Turing Award Recipient" width="30%" /></a>
+<a href="http://www.youtube.com/watch?v=si9kqZB6P6g" class="video-card" target="_blank">
+    <div class="video-thumbnail">
+        <img src="https://img.youtube.com/vi/si9kqZB6P6g/hqdefault.jpg" alt="Grace Hopper">
+        <div class="play-icon">
+            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+    </div>
+    <div class="video-info">
+        <div class="video-title">Grace Hopper (1906 - 1992)</div>
+        <div class="video-desc">American computer scientist and United States Navy rear admiral. A pioneer of computer programming and one of the first programmers of the Harvard Mark I.</div>
+    </div>
+</a>
 
-### Donald Knuth (1938 - )
+<a href="http://www.youtube.com/watch?v=smrs6FfnCzs" class="video-card" target="_blank">
+    <div class="video-thumbnail">
+        <img src="https://img.youtube.com/vi/smrs6FfnCzs/hqdefault.jpg" alt="William Kahan">
+        <div class="play-icon">
+            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+    </div>
+    <div class="video-info">
+        <div class="video-title">William Kahan (1933 - )</div>
+        <div class="video-desc">Kahan spearheaded the development of the IEEE 754 standard for floating‑point arithmetic, profoundly shaping modern numerical computing.</div>
+    </div>
+</a>
 
-Author of *The Art of Computer Programming* and creator of TeX,
-Knuth pioneered algorithm analysis and literate programming.
+<a href="http://www.youtube.com/watch?v=cOpxL5xPejo" class="video-card" target="_blank">
+    <div class="video-thumbnail">
+        <img src="https://img.youtube.com/vi/cOpxL5xPejo/hqdefault.jpg" alt="Alan Kay">
+        <div class="play-icon">
+            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+    </div>
+    <div class="video-info">
+        <div class="video-title">Alan Kay (1940 - )</div>
+        <div class="video-desc">American computer scientist known for his pioneering work on object-oriented programming and windowing graphical user interface design.</div>
+    </div>
+</a>
 
-<a href="http://www.youtube.com/watch?v=vUJ01nRE7r0"><img src="http://img.youtube.com/vi/vUJ01nRE7r0/0.jpg" alt="Don Knuth, 1974 ACM Turing Award Recipient - Part 1" width="30%" /></a>
-<a href="http://www.youtube.com/watch?v=6msRtLtfzeA"><img src="http://img.youtube.com/vi/6msRtLtfzeA/0.jpg" alt="Don Knuth, 1974 ACM Turing Award Recipient - Part 2" width="30%" /></a>
+<a href="http://www.youtube.com/watch?v=vUJ01nRE7r0" class="video-card" target="_blank">
+    <div class="video-thumbnail">
+        <img src="https://img.youtube.com/vi/vUJ01nRE7r0/hqdefault.jpg" alt="Donald Knuth Part 1">
+        <div class="play-icon">
+            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+    </div>
+    <div class="video-info">
+        <div class="video-title">Donald Knuth (1938 - ) Part 1</div>
+        <div class="video-desc">Author of <em>The Art of Computer Programming</em> and creator of TeX, Knuth pioneered algorithm analysis and literate programming.</div>
+    </div>
+</a>
 
-### Cornelius Lanczos (1893 - 1974)
+<a href="http://www.youtube.com/watch?v=6msRtLtfzeA" class="video-card" target="_blank">
+    <div class="video-thumbnail">
+        <img src="https://img.youtube.com/vi/6msRtLtfzeA/hqdefault.jpg" alt="Donald Knuth Part 2">
+        <div class="play-icon">
+            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+    </div>
+    <div class="video-info">
+        <div class="video-title">Donald Knuth (1938 - ) Part 2</div>
+        <div class="video-desc">Author of <em>The Art of Computer Programming</em> and creator of TeX, Knuth pioneered algorithm analysis and literate programming.</div>
+    </div>
+</a>
 
-Hungarian-American mathematician and physicist best known for the
-Lanczos algorithm and his pioneering contributions to relativity.
+<a href="http://www.youtube.com/watch?v=PO6xtSxB5Vg" class="video-card" target="_blank">
+    <div class="video-thumbnail">
+        <img src="https://img.youtube.com/vi/PO6xtSxB5Vg/hqdefault.jpg" alt="Cornelius Lanczos on his life">
+        <div class="play-icon">
+            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+    </div>
+    <div class="video-info">
+        <div class="video-title">Cornelius Lanczos (1893 - 1974) - Life</div>
+        <div class="video-desc">Hungarian-American mathematician and physicist best known for the Lanczos algorithm and his pioneering contributions to relativity.</div>
+    </div>
+</a>
 
-<a href="http://www.youtube.com/watch?v=PO6xtSxB5Vg"><img src="http://img.youtube.com/vi/PO6xtSxB5Vg/0.jpg" alt="Cornelius Lanczos (1893-1974) about his life" width="30%" /></a>
-<a href="http://www.youtube.com/watch?v=avSHHi9QCjA"><img src="http://img.youtube.com/vi/avSHHi9QCjA/0.jpg" alt="Cornelius Lanczos (1893-1974) about mathematics" width="30%" /></a>
-<a href="http://www.youtube.com/watch?v=Akf-aF06h5A"><img src="http://img.youtube.com/vi/Akf-aF06h5A/0.jpg" alt="Life and work of Albert Einstein (1879-1955)" width="30%" /></a>
+<a href="http://www.youtube.com/watch?v=avSHHi9QCjA" class="video-card" target="_blank">
+    <div class="video-thumbnail">
+        <img src="https://img.youtube.com/vi/avSHHi9QCjA/hqdefault.jpg" alt="Cornelius Lanczos on Mathematics">
+        <div class="play-icon">
+            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+    </div>
+    <div class="video-info">
+        <div class="video-title">Cornelius Lanczos (1893 - 1974) - Mathematics</div>
+        <div class="video-desc">Hungarian-American mathematician and physicist best known for the Lanczos algorithm and his pioneering contributions to relativity.</div>
+    </div>
+</a>
 
-### Barbara Liskov (1939 - )
+<a href="http://www.youtube.com/watch?v=Akf-aF06h5A" class="video-card" target="_blank">
+    <div class="video-thumbnail">
+        <img src="https://img.youtube.com/vi/Akf-aF06h5A/hqdefault.jpg" alt="Cornelius Lanczos on Einstein">
+        <div class="play-icon">
+            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+    </div>
+    <div class="video-info">
+        <div class="video-title">Cornelius Lanczos (1893 - 1974) - On Einstein</div>
+        <div class="video-desc">Hungarian-American mathematician and physicist best known for the Lanczos algorithm and his pioneering contributions to relativity.</div>
+    </div>
+</a>
 
-Developer of the CLU programming language and advocate of the Liskov
-substitution principle, Liskov's work shaped modern software design.
+<a href="http://www.youtube.com/watch?v=O6By99JW_V8" class="video-card" target="_blank">
+    <div class="video-thumbnail">
+        <img src="https://img.youtube.com/vi/O6By99JW_V8/hqdefault.jpg" alt="Barbara Liskov">
+        <div class="play-icon">
+            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+    </div>
+    <div class="video-info">
+        <div class="video-title">Barbara Liskov (1939 - )</div>
+        <div class="video-desc">Developer of the CLU programming language and advocate of the Liskov substitution principle, Liskov's work shaped modern software design.</div>
+    </div>
+</a>
 
-<a href="http://www.youtube.com/watch?v=O6By99JW_V8"><img src="http://img.youtube.com/vi/O6By99JW_V8/0.jpg" alt="Barbara Liskov, 2008 ACM Turing Award Recipient" width="30%" /></a>
+<a href="http://www.youtube.com/watch?v=z7bVw7lMtUg" class="video-card" target="_blank">
+    <div class="video-thumbnail">
+        <img src="https://img.youtube.com/vi/z7bVw7lMtUg/hqdefault.jpg" alt="Claude Shannon">
+        <div class="play-icon">
+            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+    </div>
+    <div class="video-info">
+        <div class="video-title">Claude Shannon (1916 - 2001)</div>
+        <div class="video-desc">American mathematician, electrical engineer, and cryptographer known as "the father of information theory".</div>
+    </div>
+</a>
+
+<a href="http://www.youtube.com/watch?v=vZbFHx8UCI8" class="video-card" target="_blank">
+    <div class="video-thumbnail">
+        <img src="https://img.youtube.com/vi/vZbFHx8UCI8/hqdefault.jpg" alt="John von Neumann">
+        <div class="play-icon">
+            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+    </div>
+    <div class="video-info">
+        <div class="video-title">John von Neumann (1903 - 1957)</div>
+        <div class="video-desc">Hungarian-American mathematician, physicist, computer scientist, engineer and polymath. He made major contributions to many fields.</div>
+    </div>
+</a>
+
+</div>
 
 ## Physics
 
-### Richard Feynman (1918 - 1988)
+<div class="video-grid">
 
-Nobel Prize‑winning physicist celebrated for his work in quantum
-electrodynamics and his captivating lecture style.
+<a href="http://www.youtube.com/watch?v=P1ww1IXRfTA" class="video-card" target="_blank">
+    <div class="video-thumbnail">
+        <img src="https://img.youtube.com/vi/P1ww1IXRfTA/hqdefault.jpg" alt="Richard Feynman">
+        <div class="play-icon">
+            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+    </div>
+    <div class="video-info">
+        <div class="video-title">Richard Feynman (1918 - 1988)</div>
+        <div class="video-desc">Nobel Prize‑winning physicist celebrated for his work in quantum electrodynamics and his captivating lecture style.</div>
+    </div>
+</a>
 
-<a href="http://www.youtube.com/watch?v=P1ww1IXRfTA"><img src="http://img.youtube.com/vi/P1ww1IXRfTA/0.jpg" alt="Fun to imagine, 1983, (BBC)" width="30%" /></a>
+</div>
 
 ## Philosophy
