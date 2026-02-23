@@ -127,19 +127,6 @@ A collection of interviews with Giants of Science. Feel free to contribute more 
     </div>
 </a>
 
-<a href="http://www.youtube.com/watch?v=vZbFHx8UCI8" class="video-card" target="_blank">
-    <div class="video-thumbnail">
-        <img src="https://img.youtube.com/vi/vZbFHx8UCI8/hqdefault.jpg" alt="John von Neumann">
-        <div class="play-icon">
-            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-        </div>
-    </div>
-    <div class="video-info">
-        <div class="video-title">John von Neumann (1903 - 1957)</div>
-        <div class="video-desc">Hungarian-American mathematician, physicist, computer scientist, engineer and polymath. He made major contributions to many fields.</div>
-    </div>
-</a>
-
 </div>
 
 ## Physics
