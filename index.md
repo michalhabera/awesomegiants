@@ -36,9 +36,9 @@ A collection of interviews with Giants of Science. Feel free to contribute more 
     </div>
 </a>
 
-<a href="http://www.youtube.com/watch?v=cOpxL5xPejo" class="video-card" target="_blank">
+<a href="https://www.youtube.com/watch?v=ymF94cFfzUQ" class="video-card" target="_blank">
     <div class="video-thumbnail">
-        <img src="https://img.youtube.com/vi/cOpxL5xPejo/hqdefault.jpg" alt="Alan Kay">
+        <img src="https://img.youtube.com/vi/ymF94cFfzUQ/hqdefault.jpg" alt="Alan Kay">
         <div class="play-icon">
             <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
         </div>
