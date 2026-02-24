@@ -133,6 +133,19 @@ A collection of interviews with Giants of Science. Feel free to contribute more 
 
 <div class="video-grid">
 
+<a href="https://www.youtube.com/watch?v=xJzrU38pGWc" class="video-card" target="_blank">
+    <div class="video-thumbnail">
+        <img src="https://img.youtube.com/vi/xJzrU38pGWc/hqdefault.jpg" alt="Paul Dirac">
+        <div class="play-icon">
+            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+    </div>
+    <div class="video-info">
+        <div class="video-title">Paul Dirac (1902 - 1984)</div>
+        <div class="video-desc">English theoretical physicist who is one of the founders of quantum mechanics and quantum electrodynamics.</div>
+    </div>
+</a>
+
 <a href="http://www.youtube.com/watch?v=P1ww1IXRfTA" class="video-card" target="_blank">
     <div class="video-thumbnail">
         <img src="https://img.youtube.com/vi/P1ww1IXRfTA/hqdefault.jpg" alt="Richard Feynman">
@@ -146,6 +159,49 @@ A collection of interviews with Giants of Science. Feel free to contribute more 
     </div>
 </a>
 
+<a href="https://www.youtube.com/watch?v=YnXUuyfPK2A" class="video-card" target="_blank">
+    <div class="video-thumbnail">
+        <img src="https://img.youtube.com/vi/YnXUuyfPK2A/hqdefault.jpg" alt="Roger Penrose">
+        <div class="play-icon">
+            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+    </div>
+    <div class="video-info">
+        <div class="video-title">Roger Penrose (1931 - )</div>
+        <div class="video-desc">English mathematical physicist, mathematician, and philosopher of science. Laureate of the Nobel Prize in Physics.</div>
+    </div>
+</a>
+
+<a href="https://www.youtube.com/watch?v=B9FpAGK8bj8" class="video-card" target="_blank">
+    <div class="video-thumbnail">
+        <img src="https://img.youtube.com/vi/B9FpAGK8bj8/hqdefault.jpg" alt="Max Planck">
+        <div class="play-icon">
+            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+    </div>
+    <div class="video-info">
+        <div class="video-title">Max Planck (1858 - 1947)</div>
+        <div class="video-desc">German theoretical physicist who originated quantum theory, which won him the Nobel Prize in Physics in 1918.</div>
+    </div>
+</a>
+
 </div>
 
 ## Philosophy
+
+<div class="video-grid">
+
+<a href="https://www.youtube.com/watch?v=TrJZBysrZro" class="video-card" target="_blank">
+    <div class="video-thumbnail">
+        <img src="https://img.youtube.com/vi/TrJZBysrZro/hqdefault.jpg" alt="Bertrand Russell">
+        <div class="play-icon">
+            <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </div>
+    </div>
+    <div class="video-info">
+        <div class="video-title">Bertrand Russell (1872 - 1970)</div>
+        <div class="video-desc">British mathematician, philosopher, logician, and public intellectual.</div>
+    </div>
+</a>
+
+</div>
